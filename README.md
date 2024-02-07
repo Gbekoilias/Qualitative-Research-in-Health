@@ -1,5 +1,5 @@
 # Qualitative-Research-in-Health
-for users seeking information on qualitative research in the context of health and public health.
+
 # Part 1: suggested structure
 ##1. Provide a brief introduction to the essay/clear outline of what you intend to discuss. (50-100 words max).
 
