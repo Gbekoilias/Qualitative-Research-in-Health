@@ -1,12 +1,12 @@
 # Qualitative-Research-in-Health
 
-#Part 1: suggested structure
+# Part 1: suggested structure
 
 ## 1. Provide a brief introduction to the essay/clear outline of what you intend to discuss. (50-100 words max).
 
 ## 2. Provide a clear discussion of:
-– what is qualitative research, what are the key features and characteristics. What you could also do is flag up some of the different methodological approaches but be careful about being too descriptive here 
-– there are differences between methodologies, but there is more that unites qualitative approaches than divides. If you have space, briefly compare qualitative methods with quantitative research. (roughly 500 words).
+   – what is qualitative research, what are the key features and characteristics. What you could also do is flag up some of the different methodological approaches but be careful about being too descriptive here 
+   – there are differences between methodologies, but there is more that unites qualitative approaches than divides. If you have space, briefly compare qualitative methods with quantitative research. (roughly 500 words).
 
 ## 3. Describe some of the research studies that use qualitative methods approach in health/public health studies (examples are provided in the reading list + use library searches). 
    - Here, it might make sense to focus on an area of research that you are interested in (e.g., obesity or active travel, for example). (shorter section – 150-200 words).
