@@ -1,0 +1,35 @@
+Heintze, C. Sonntag, S. Brinck, A. Huppertz, M. Niewohner, J. Wiesner, J. and Braun, V. (2012) A qualitative
+study on patients’ and physicians’ visions for the future
+management of overweight and obesity. Family Practice,
+29, 103-109. doi:10.1093/fampra/cmr051
+
+
+Abstract
+Background. The management of obesity with its associated morbidity and mortality is a growing problem in primary care practices. Despite numerous recommendations in response to this challenge, weight management interventions still yield poor results. This is partly due to a discrepancy between physicians’ and patients’ understanding of the problem and possible solutions.
+Objective. This study analyses patients’ and physicians’ visions for the future management of obesity.
+Methods. Qualitative in-depth semi-structured interviews were performed. Physicians and patients were asked about their individual needs, experience and views regarding the management of obesity. Fifteen GPs and 15 overweight patients participated in this study. Interviews were transcribed and submitted to qualitative content analysis.
+Results. The investigation reveals a high level of agreement between the two groups with regard to communication requirements for successful care. Both groups stressed the need for multimodal care concepts inside and outside of GP practices. Both also addressed the current overburdening of outpatient care structures in dealing with the management of obesity.
+Conclusion. Options should be developed for closer cooperation between GPs and support facilities inside and outside practices
+
+Methodology
+Methods
+We conducted a cross-sectional study with GPs working in solo practices, which are common in Germany. A written invitation letter was sent to 70 GPs and 15 participated in the study. No information was available on those who refused to participate. Those who participated were asked to include overweight or obese patients [body mass index (BMI) ≥ 25 kg/m2] undergoing periodic health check-ups. A total of 123 consecutive overweight patients were approached in these practices and asked to fill out a quantitative questionnaire on their perception and understanding of overweight and obesity (purposeful sample). No information was available concerning patients who refused to participate. The results have been published elsewhere.5
+
+A process of theoretical sampling was used in selecting 37 of the 123 patients to participate in qualitative interviews. All GP practices (interview of at least one patient per practice) were asked to consider the patients’ gender and BMI. At the time of data collection, 17 of the selected patients were not available, 1 had died and 4 refused another interview. Thus, we were able to conduct in-depth semi-structured interviews with 15 GPs and 15 patients.
+
+Both groups made statements about their visions for improved future health care structures in dealing with overweight and obesity (see Table 1). A free association narrative method was predominant, but the interviewer could ask additional problem-centred questions. Interviews with physicians were audiotaped in their practices. Patients were interviewed in their homes.
+
+TABLE 1Questions asked during interviews with patients and GPs
+Patients
+    • What type of care would be best for you in terms of weight management?
+    • What do you expect of your general practitioner?
+GPs
+    • What are your suggestions regarding the care of your overweight or obese patients?
+    • What (treatment) options does your practice offer?
+Open in new tab
+Patients were asked by one author (MH) about their obesity-related health care expectations. Physicians were asked by another author (AB) to make suggestions for improving the care of overweight patients (see Table 1).
+
+Data analysis
+The interviews were transcribed and submitted to qualitative content analysis. MAYRING’s qualitative content analysis applies a theory-guided approach. A central component of the analytical framework is paraphrasing, summarizing and deleting recurring text passages on a predefined abstraction level with stepwise generalization of individual statements. This approach is generally recognized for its rigour.21,22
+
+After reading the transcripts several times, two of the authors (AB and MH) coded the material inductively, focussing on the interviewees’ own views. Results were subsequently discussed and compared. A consensus was reached by a re-evaluation and panel discussion (JW, CH and UM). Qualitative data analysis software (Atlas TI) was used to facilitate the coding process.
